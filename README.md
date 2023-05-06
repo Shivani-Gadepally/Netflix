@@ -10,4 +10,4 @@ I have collected the data from Kaggle and did the analysis. The data includes th
 
 In recent years, Netflix has faced increasing competition in the streaming space, with the entrance of new players like Disney+, Apple TV+, and HBO Max. Analysing the data would help the company to know where they are lacking behind and can improve in that particular area as per customer satisfaction. 
 
-Link to my streamlit app: https://shivani-gadepally-netflix-main-x56fl1.streamlit.app/About_Netflix
+Link to my streamlit app: https://shivani-gadepally-netflix-main-x56fl1.streamlit.app/
